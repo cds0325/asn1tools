@@ -2,7 +2,7 @@
 # -*- coding: utf-8 -*-
 
 import unittest
-from .utils import Asn1ToolsBaseTest
+from utils import Asn1ToolsBaseTest
 import sys
 from copy import deepcopy
 from asn1tools.codecs import utc_time_to_datetime as ut2dt

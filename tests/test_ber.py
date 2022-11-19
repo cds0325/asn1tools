@@ -7,7 +7,7 @@ import timeit
 import sys
 from copy import deepcopy
 from datetime import datetime
-from .utils import Asn1ToolsBaseTest
+from utils import Asn1ToolsBaseTest
 
 import asn1tools
 from asn1tools.codecs import utc_time_to_datetime as ut2dt

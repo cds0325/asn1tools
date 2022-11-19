@@ -1,0 +1,21 @@
+{
+	"folders": [
+		{
+			"path": "../../../radisys-cu/radisys-cu"
+		},
+		{
+			"name": "cu_help_docs",
+			"path": "../../../cu_help_docs"
+		},
+		{
+			"name": "asn1tools",
+			"path": "../.."
+		}
+	],
+	"settings": {
+		"esbonio.sphinx.confDir": "",
+		"files.associations": {
+			"stdbool.h": "c"
+		}
+	}
+}

@@ -5,7 +5,7 @@ from datetime import date
 from datetime import time
 from datetime import datetime
 from copy import deepcopy
-from .utils import Asn1ToolsBaseTest
+from utils import Asn1ToolsBaseTest
 import asn1tools
 
 sys.path.append('tests/files')

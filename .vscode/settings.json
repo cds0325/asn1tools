@@ -1,0 +1,16 @@
+{
+    "python.analysis.extraPaths": [
+        "./tests/files",
+        "./project/files/F1AP",
+        "./project/files/E2AP",
+        "./project/files",
+        "./tests/files/3gpp",
+        "./project"
+    ],
+    "files.associations": {
+        "xiosbase": "cpp",
+        "stdlib.h": "c"
+    },
+    "esbonio.sphinx.confDir": "",
+    "C_Cpp.errorSquiggles": "Disabled"
+}

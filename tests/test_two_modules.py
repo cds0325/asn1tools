@@ -1,5 +1,5 @@
 import unittest
-from .utils import Asn1ToolsBaseTest
+from utils import Asn1ToolsBaseTest
 import asn1tools
 
 

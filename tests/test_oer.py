@@ -3,7 +3,7 @@
 
 import sys
 import unittest
-from .utils import Asn1ToolsBaseTest
+from utils import Asn1ToolsBaseTest
 from datetime import datetime
 from copy import deepcopy
 import asn1tools
